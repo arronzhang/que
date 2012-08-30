@@ -105,7 +105,9 @@ Hello World, I Have __20__ big apples and __15__ pens.
 ------------------------
 
 1.1	TomundefinedJohn
+
 1.2	16
+
 1.3	str.replace(/\d+/g, function(a){ return 10 + parseInt(a) });
 
 2.1	#333
